@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "main": "src/ewdStore.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arc2digital/ewd-svelte.git"
+  },
   "dependencies": {
     "ewd-client": "^1.21.0"
   },
