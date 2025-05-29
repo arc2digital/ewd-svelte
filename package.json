@@ -1,0 +1,12 @@
+{
+  "name": "@arc2digital/ewd-svelte",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/ewdStore.js",
+  "dependencies": {
+    "ewd-client": "^1.21.0"
+  },
+  "peerDependencies": {
+    "svelte": "^3.0.0 || ^4.0.0 || ^5.0.0"
+  }
+}
